@@ -1,0 +1,19 @@
+{
+  "name": "@fancn21th/foo",
+  "version": "0.0.3",
+  "description": "foo",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "build": "rollup -c",
+    "publish": "npm publish --access=public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": "https://github.com/fancn21th/foo",
+  "devDependencies": {
+    "@rollup/plugin-json": "^4.1.0",
+    "rollup": "^2.35.1",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
