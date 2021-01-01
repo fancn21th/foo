@@ -1,6 +1,6 @@
 {
   "name": "@fancn21th/foo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "foo",
   "main": "dist/bundle.js",
   "scripts": {
